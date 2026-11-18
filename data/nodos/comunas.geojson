@@ -1,0 +1,6560 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.1524646,
+     -20.2140657
+    ]
+   },
+   "properties": {
+    "nombre": "Iquique",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "01101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.1009162,
+     -20.2700478
+    ]
+   },
+   "properties": {
+    "nombre": "Alto Hospicio",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "01107",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.7861372,
+     -20.2597061
+    ]
+   },
+   "properties": {
+    "nombre": "Pozo Almonte",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "01401",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.4266968,
+     -19.313081
+    ]
+   },
+   "properties": {
+    "nombre": "Camiña",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "01402",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.6389471,
+     -19.275822
+    ]
+   },
+   "properties": {
+    "nombre": "Colchane",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "01403",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.7727034,
+     -19.9957872
+    ]
+   },
+   "properties": {
+    "nombre": "Huara",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "01404",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.3290752,
+     -20.4911417
+    ]
+   },
+   "properties": {
+    "nombre": "Pica",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "01405",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.3980033,
+     -23.6463741
+    ]
+   },
+   "properties": {
+    "nombre": "Antofagasta",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "02101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.4483076,
+     -23.1002342
+    ]
+   },
+   "properties": {
+    "nombre": "Mejillones",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "02102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.8434733,
+     -23.3338059
+    ]
+   },
+   "properties": {
+    "nombre": "Sierra Gorda",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "02103",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.4858424,
+     -25.4078293
+    ]
+   },
+   "properties": {
+    "nombre": "Taltal",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "02104",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.9272181,
+     -22.4623917
+    ]
+   },
+   "properties": {
+    "nombre": "Calama",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "02201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.2534522,
+     -21.2242235
+    ]
+   },
+   "properties": {
+    "nombre": "Ollagüe",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "02202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.2001376,
+     -22.910832
+    ]
+   },
+   "properties": {
+    "nombre": "San Pedro de Atacama",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "02203",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.1960657,
+     -22.0887189
+    ]
+   },
+   "properties": {
+    "nombre": "Tocopilla",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "02301",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.6618035,
+     -22.3451485
+    ]
+   },
+   "properties": {
+    "nombre": "María Elena",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "02302",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.3322753,
+     -27.3664685
+    ]
+   },
+   "properties": {
+    "nombre": "Copiapó",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "03101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8222047,
+     -27.0675545
+    ]
+   },
+   "properties": {
+    "nombre": "Caldera",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "03102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.2649307,
+     -27.4680505
+    ]
+   },
+   "properties": {
+    "nombre": "Tierra Amarilla",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "03103",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6223617,
+     -26.347934
+    ]
+   },
+   "properties": {
+    "nombre": "Chañaral",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "03201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.0459281,
+     -26.3910794
+    ]
+   },
+   "properties": {
+    "nombre": "Diego de Almagro",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "03202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7616398,
+     -28.5750438
+    ]
+   },
+   "properties": {
+    "nombre": "Vallenar",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "03301",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.4861108,
+     -28.7596711
+    ]
+   },
+   "properties": {
+    "nombre": "Alto del Carmen",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "03302",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.0785719,
+     -28.5086484
+    ]
+   },
+   "properties": {
+    "nombre": "Freirina",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "03303",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2207947,
+     -28.4651248
+    ]
+   },
+   "properties": {
+    "nombre": "Huasco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "03304",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2519575,
+     -29.902705
+    ]
+   },
+   "properties": {
+    "nombre": "La Serena",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.3379503,
+     -29.9531851
+    ]
+   },
+   "properties": {
+    "nombre": "Coquimbo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.0847556,
+     -30.2322048
+    ]
+   },
+   "properties": {
+    "nombre": "Andacollo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04103",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2015007,
+     -29.511595
+    ]
+   },
+   "properties": {
+    "nombre": "La Higuera",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04104",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5164414,
+     -30.0290417
+    ]
+   },
+   "properties": {
+    "nombre": "Paihuano",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04105",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7126702,
+     -30.0340482
+    ]
+   },
+   "properties": {
+    "nombre": "Vicuña",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04106",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.1683039,
+     -31.6326932
+    ]
+   },
+   "properties": {
+    "nombre": "Illapel",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4575738,
+     -31.3984185
+    ]
+   },
+   "properties": {
+    "nombre": "Canela",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5138659,
+     -31.9121725
+    ]
+   },
+   "properties": {
+    "nombre": "Los Vilos",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04203",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9649896,
+     -31.7804674
+    ]
+   },
+   "properties": {
+    "nombre": "Salamanca",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04204",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2029894,
+     -30.6030819
+    ]
+   },
+   "properties": {
+    "nombre": "Ovalle",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04301",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.0024382,
+     -31.1781518
+    ]
+   },
+   "properties": {
+    "nombre": "Combarbalá",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04302",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9579593,
+     -30.6944769
+    ]
+   },
+   "properties": {
+    "nombre": "Monte Patria",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04303",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2573637,
+     -30.8337532
+    ]
+   },
+   "properties": {
+    "nombre": "Punitaqui",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04304",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9383091,
+     -30.4090831
+    ]
+   },
+   "properties": {
+    "nombre": "Río Hurtado",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "04305",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6196749,
+     -33.0458456
+    ]
+   },
+   "properties": {
+    "nombre": "Valparaíso",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4100762,
+     -33.3205864
+    ]
+   },
+   "properties": {
+    "nombre": "Casablanca",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5159565,
+     -32.9220036
+    ]
+   },
+   "properties": {
+    "nombre": "Concón",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05103",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.8313164,
+     -33.6357292
+    ]
+   },
+   "properties": {
+    "nombre": "Juan Fernández",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05104",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4150065,
+     -32.7259856
+    ]
+   },
+   "properties": {
+    "nombre": "Puchuncaví",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05105",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5283361,
+     -32.7840217
+    ]
+   },
+   "properties": {
+    "nombre": "Quintero",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05107",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5517636,
+     -33.0244535
+    ]
+   },
+   "properties": {
+    "nombre": "Viña del Mar",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05109",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.427344,
+     -27.1481172
+    ]
+   },
+   "properties": {
+    "nombre": "Isla de Pascua",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5981609,
+     -32.8336867
+    ]
+   },
+   "properties": {
+    "nombre": "Los Andes",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05301",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6260407,
+     -32.8552685
+    ]
+   },
+   "properties": {
+    "nombre": "Calle Larga",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05302",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6871827,
+     -32.8393819
+    ]
+   },
+   "properties": {
+    "nombre": "Rinconada",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05303",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5795811,
+     -32.7990544
+    ]
+   },
+   "properties": {
+    "nombre": "San Esteban",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05304",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2316695,
+     -32.4496375
+    ]
+   },
+   "properties": {
+    "nombre": "La Ligua",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05401",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.0663299,
+     -32.4265909
+    ]
+   },
+   "properties": {
+    "nombre": "Cabildo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05402",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4459354,
+     -32.50759
+    ]
+   },
+   "properties": {
+    "nombre": "Papudo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05403",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9309103,
+     -32.251699
+    ]
+   },
+   "properties": {
+    "nombre": "Petorca",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05404",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4588181,
+     -32.5528294
+    ]
+   },
+   "properties": {
+    "nombre": "Zapallar",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05405",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2473555,
+     -32.879997
+    ]
+   },
+   "properties": {
+    "nombre": "Quillota",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05501",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.203546,
+     -32.788981
+    ]
+   },
+   "properties": {
+    "nombre": "La Calera",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05502",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.145221,
+     -32.8000578
+    ]
+   },
+   "properties": {
+    "nombre": "Hijuelas",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05503",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2271534,
+     -32.8279116
+    ]
+   },
+   "properties": {
+    "nombre": "La Cruz",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05504",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2002438,
+     -32.736381
+    ]
+   },
+   "properties": {
+    "nombre": "Nogales",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05506",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6132377,
+     -33.5808615
+    ]
+   },
+   "properties": {
+    "nombre": "San Antonio",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05601",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6680533,
+     -33.369172
+    ]
+   },
+   "properties": {
+    "nombre": "Algarrobo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05602",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6031708,
+     -33.5468491
+    ]
+   },
+   "properties": {
+    "nombre": "Cartagena",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05603",
+    "poblacion_osm": 16875,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.693998,
+     -33.400311
+    ]
+   },
+   "properties": {
+    "nombre": "El Quisco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05604",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.669107,
+     -33.4545847
+    ]
+   },
+   "properties": {
+    "nombre": "El Tabo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05605",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6260957,
+     -33.6405948
+    ]
+   },
+   "properties": {
+    "nombre": "Santo Domingo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05606",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7252688,
+     -32.750687
+    ]
+   },
+   "properties": {
+    "nombre": "San Felipe",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05701",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9633428,
+     -32.7784214
+    ]
+   },
+   "properties": {
+    "nombre": "Catemu",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05702",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9526493,
+     -32.8429665
+    ]
+   },
+   "properties": {
+    "nombre": "Llay-Llay",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05703",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8361303,
+     -32.7705769
+    ]
+   },
+   "properties": {
+    "nombre": "Panquehue",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05704",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7167642,
+     -32.6260768
+    ]
+   },
+   "properties": {
+    "nombre": "Putaendo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05705",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6567375,
+     -32.7478749
+    ]
+   },
+   "properties": {
+    "nombre": "Santa María",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05706",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4415282,
+     -33.0498135
+    ]
+   },
+   "properties": {
+    "nombre": "Quilpué",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05801",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2657315,
+     -33.0018741
+    ]
+   },
+   "properties": {
+    "nombre": "Limache",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05802",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.186211,
+     -32.9956184
+    ]
+   },
+   "properties": {
+    "nombre": "Olmué",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05803",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.3725464,
+     -33.0441903
+    ]
+   },
+   "properties": {
+    "nombre": "Villa Alemana",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "05804",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.740718,
+     -34.1702433
+    ]
+   },
+   "properties": {
+    "nombre": "Rancagua",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6565422,
+     -34.0377
+    ]
+   },
+   "properties": {
+    "nombre": "Codegua",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9515801,
+     -34.2699359
+    ]
+   },
+   "properties": {
+    "nombre": "Coinco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06103",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.0825729,
+     -34.2862794
+    ]
+   },
+   "properties": {
+    "nombre": "Coltauco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06104",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9648916,
+     -34.226074
+    ]
+   },
+   "properties": {
+    "nombre": "Doñihue",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06105",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7262983,
+     -34.0644743
+    ]
+   },
+   "properties": {
+    "nombre": "Graneros",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06106",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.3098439,
+     -34.2917304
+    ]
+   },
+   "properties": {
+    "nombre": "Las Cabras",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06107",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6511584,
+     -34.182453
+    ]
+   },
+   "properties": {
+    "nombre": "Machalí",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06108",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9440652,
+     -34.4421408
+    ]
+   },
+   "properties": {
+    "nombre": "Malloa",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06109",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7121737,
+     -33.9799035
+    ]
+   },
+   "properties": {
+    "nombre": "Mostazal",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06110",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8172288,
+     -34.2094366
+    ]
+   },
+   "properties": {
+    "nombre": "Olivar",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06111",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.1694264,
+     -34.3959163
+    ]
+   },
+   "properties": {
+    "nombre": "Peumo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06112",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.282715,
+     -34.3584097
+    ]
+   },
+   "properties": {
+    "nombre": "Pichidegua",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06113",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9638806,
+     -34.3545849
+    ]
+   },
+   "properties": {
+    "nombre": "Quinta de Tilcoco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06114",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8616583,
+     -34.4088744
+    ]
+   },
+   "properties": {
+    "nombre": "Rengo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06115",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap label",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8175128,
+     -34.2848586
+    ]
+   },
+   "properties": {
+    "nombre": "Requínoa",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06116",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.07679,
+     -34.4392675
+    ]
+   },
+   "properties": {
+    "nombre": "San Vicente de Tagua Tagua",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06117",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0046606,
+     -34.3851693
+    ]
+   },
+   "properties": {
+    "nombre": "Pichilemu",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6546039,
+     -34.2052857
+    ]
+   },
+   "properties": {
+    "nombre": "La Estrella",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.7296864,
+     -34.1154229
+    ]
+   },
+   "properties": {
+    "nombre": "Litueche",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06203",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6182815,
+     -34.400088
+    ]
+   },
+   "properties": {
+    "nombre": "Marchigüe",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06204",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8305775,
+     -33.9536044
+    ]
+   },
+   "properties": {
+    "nombre": "Navidad",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06205",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9008463,
+     -34.6476395
+    ]
+   },
+   "properties": {
+    "nombre": "Paredones",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06206",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.989122,
+     -34.583791
+    ]
+   },
+   "properties": {
+    "nombre": "San Fernando",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06301",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2738582,
+     -34.7285856
+    ]
+   },
+   "properties": {
+    "nombre": "Chépica",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06302",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.0403642,
+     -34.708953
+    ]
+   },
+   "properties": {
+    "nombre": "Chimbarongo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06303",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6440839,
+     -34.727836
+    ]
+   },
+   "properties": {
+    "nombre": "Lolol",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06304",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.1953819,
+     -34.6527427
+    ]
+   },
+   "properties": {
+    "nombre": "Nancagua",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06305",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.3624782,
+     -34.5960542
+    ]
+   },
+   "properties": {
+    "nombre": "Palmilla",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06306",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4793203,
+     -34.4780273
+    ]
+   },
+   "properties": {
+    "nombre": "Peralillo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06307",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.1173651,
+     -34.6385927
+    ]
+   },
+   "properties": {
+    "nombre": "Placilla",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06308",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.654681,
+     -34.6048141
+    ]
+   },
+   "properties": {
+    "nombre": "Pumanque",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06309",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.3661297,
+     -34.6403243
+    ]
+   },
+   "properties": {
+    "nombre": "Santa Cruz",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "06310",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6660322,
+     -35.4265343
+    ]
+   },
+   "properties": {
+    "nombre": "Talca",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4118998,
+     -35.3318306
+    ]
+   },
+   "properties": {
+    "nombre": "Constitución",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0180794,
+     -35.0937166
+    ]
+   },
+   "properties": {
+    "nombre": "Curepto",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07103",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2776205,
+     -35.5907772
+    ]
+   },
+   "properties": {
+    "nombre": "Empedrado",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07104",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6918891,
+     -35.521347
+    ]
+   },
+   "properties": {
+    "nombre": "Maule",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07105",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4469824,
+     -35.3836634
+    ]
+   },
+   "properties": {
+    "nombre": "Pelarco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07106",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.7993745,
+     -35.3961663
+    ]
+   },
+   "properties": {
+    "nombre": "Pencahue",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07107",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2586749,
+     -35.2816338
+    ]
+   },
+   "properties": {
+    "nombre": "Río Claro",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07108",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4858841,
+     -35.5375459
+    ]
+   },
+   "properties": {
+    "nombre": "San Clemente",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07109",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5156699,
+     -35.3050966
+    ]
+   },
+   "properties": {
+    "nombre": "San Rafael",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07110",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.315427,
+     -35.9671286
+    ]
+   },
+   "properties": {
+    "nombre": "Cauquenes",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.5331642,
+     -35.7341836
+    ]
+   },
+   "properties": {
+    "nombre": "Chanco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.636357,
+     -35.8452538
+    ]
+   },
+   "properties": {
+    "nombre": "Pelluhue",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07203",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2393705,
+     -34.985368
+    ]
+   },
+   "properties": {
+    "nombre": "Curicó",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07301",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8012086,
+     -34.9774855
+    ]
+   },
+   "properties": {
+    "nombre": "Hualañé",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07302",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9845873,
+     -34.9856892
+    ]
+   },
+   "properties": {
+    "nombre": "Licantén",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07303",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2799798,
+     -35.1139703
+    ]
+   },
+   "properties": {
+    "nombre": "Molina",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07304",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.3166884,
+     -34.9246071
+    ]
+   },
+   "properties": {
+    "nombre": "Rauco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07305",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.1253134,
+     -34.9599696
+    ]
+   },
+   "properties": {
+    "nombre": "Romeral",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07306",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.3817116,
+     -34.9990365
+    ]
+   },
+   "properties": {
+    "nombre": "Sagrada Familia",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07307",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.1612202,
+     -34.8667952
+    ]
+   },
+   "properties": {
+    "nombre": "Teno",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07308",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9923708,
+     -34.8840168
+    ]
+   },
+   "properties": {
+    "nombre": "Vichuquén",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07309",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5977173,
+     -35.8452905
+    ]
+   },
+   "properties": {
+    "nombre": "Linares",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07401",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4060907,
+     -35.6960057
+    ]
+   },
+   "properties": {
+    "nombre": "Colbún",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07402",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6846723,
+     -35.9659749
+    ]
+   },
+   "properties": {
+    "nombre": "Longaví",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07403",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8222221,
+     -36.1414293
+    ]
+   },
+   "properties": {
+    "nombre": "Parral",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07404",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.7650623,
+     -36.0554429
+    ]
+   },
+   "properties": {
+    "nombre": "Retiro",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07405",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.735308,
+     -35.5923933
+    ]
+   },
+   "properties": {
+    "nombre": "San Javier",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07406",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.7446702,
+     -35.6752031
+    ]
+   },
+   "properties": {
+    "nombre": "Villa Alegre",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07407",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5820799,
+     -35.7464128
+    ]
+   },
+   "properties": {
+    "nombre": "Yerbas Buenas",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "07408",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0502064,
+     -36.8270698
+    ]
+   },
+   "properties": {
+    "nombre": "Concepción",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.1561953,
+     -37.0164712
+    ]
+   },
+   "properties": {
+    "nombre": "Coronel",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0237115,
+     -36.9292478
+    ]
+   },
+   "properties": {
+    "nombre": "Chiguayante",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08103",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6614469,
+     -36.8253041
+    ]
+   },
+   "properties": {
+    "nombre": "Florida",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08104",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9383874,
+     -36.9759363
+    ]
+   },
+   "properties": {
+    "nombre": "Hualqui",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08105",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.1564024,
+     -37.0944533
+    ]
+   },
+   "properties": {
+    "nombre": "Lota",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08106",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9937749,
+     -36.7385838
+    ]
+   },
+   "properties": {
+    "nombre": "Penco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08107",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.1039909,
+     -36.8414183
+    ]
+   },
+   "properties": {
+    "nombre": "San Pedro de la Paz",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08108",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.94259,
+     -37.1737794
+    ]
+   },
+   "properties": {
+    "nombre": "Santa Juana",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08109",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.1141087,
+     -36.7144863
+    ]
+   },
+   "properties": {
+    "nombre": "Talcahuano",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08110",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9575043,
+     -36.6170801
+    ]
+   },
+   "properties": {
+    "nombre": "Tomé",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08111",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0943414,
+     -36.7927608
+    ]
+   },
+   "properties": {
+    "nombre": "Hualpén",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08112",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.656055,
+     -37.6102279
+    ]
+   },
+   "properties": {
+    "nombre": "Lebu",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.3176399,
+     -37.246248
+    ]
+   },
+   "properties": {
+    "nombre": "Arauco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.3990802,
+     -37.8004074
+    ]
+   },
+   "properties": {
+    "nombre": "Cañete",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08203",
+    "poblacion_osm": 31270,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.2286034,
+     -38.0160243
+    ]
+   },
+   "properties": {
+    "nombre": "Contulmo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08204",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.3457069,
+     -37.4758037
+    ]
+   },
+   "properties": {
+    "nombre": "Curanilahue",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08205",
+    "poblacion_osm": 31943,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4618419,
+     -37.6271305
+    ]
+   },
+   "properties": {
+    "nombre": "Los Álamos",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08206",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4934808,
+     -38.3438662
+    ]
+   },
+   "properties": {
+    "nombre": "Tirúa",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08207",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.351686,
+     -37.4707455
+    ]
+   },
+   "properties": {
+    "nombre": "Los Ángeles",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08301",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6791577,
+     -37.3299561
+    ]
+   },
+   "properties": {
+    "nombre": "Antuco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08302",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4026797,
+     -37.0358293
+    ]
+   },
+   "properties": {
+    "nombre": "Cabrero",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08303",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.7149212,
+     -37.2795106
+    ]
+   },
+   "properties": {
+    "nombre": "Laja",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08304",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2441318,
+     -37.7200873
+    ]
+   },
+   "properties": {
+    "nombre": "Mulchén",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08305",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.67311,
+     -37.5018293
+    ]
+   },
+   "properties": {
+    "nombre": "Nacimiento",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08306",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.5292643,
+     -37.5856678
+    ]
+   },
+   "properties": {
+    "nombre": "Negrete",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08307",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0054893,
+     -37.6841271
+    ]
+   },
+   "properties": {
+    "nombre": "Quilaco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08308",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9803093,
+     -37.4709734
+    ]
+   },
+   "properties": {
+    "nombre": "Quilleco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08309",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.7240272,
+     -37.2630837
+    ]
+   },
+   "properties": {
+    "nombre": "San Rosendo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08310",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.021408,
+     -37.6680813
+    ]
+   },
+   "properties": {
+    "nombre": "Santa Bárbara",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08311",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9418681,
+     -37.2401857
+    ]
+   },
+   "properties": {
+    "nombre": "Tucapel",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08312",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.5622801,
+     -37.0978676
+    ]
+   },
+   "properties": {
+    "nombre": "Yumbel",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08313",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6373781,
+     -37.8820267
+    ]
+   },
+   "properties": {
+    "nombre": "Alto Biobío",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "08314",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.590538,
+     -38.7358908
+    ]
+   },
+   "properties": {
+    "nombre": "Temuco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.1651699,
+     -38.7115844
+    ]
+   },
+   "properties": {
+    "nombre": "Carahue",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0320894,
+     -38.9329729
+    ]
+   },
+   "properties": {
+    "nombre": "Cunco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09103",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5873592,
+     -39.35898
+    ]
+   },
+   "properties": {
+    "nombre": "Curarrehue",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09104",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6254333,
+     -38.9514242
+    ]
+   },
+   "properties": {
+    "nombre": "Freire",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09105",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.7812506,
+     -38.4111234
+    ]
+   },
+   "properties": {
+    "nombre": "Galvarino",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09106",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6759352,
+     -39.1031567
+    ]
+   },
+   "properties": {
+    "nombre": "Gorbea",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09107",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4350504,
+     -38.534312
+    ]
+   },
+   "properties": {
+    "nombre": "Lautaro",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09108",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6300704,
+     -39.370616
+    ]
+   },
+   "properties": {
+    "nombre": "Loncoche",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09109",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6950139,
+     -38.8532381
+    ]
+   },
+   "properties": {
+    "nombre": "Melipeuco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09110",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9519984,
+     -38.7453101
+    ]
+   },
+   "properties": {
+    "nombre": "Nueva Imperial",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09111",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.5956312,
+     -38.7674245
+    ]
+   },
+   "properties": {
+    "nombre": "Padre Las Casas",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09112",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3778344,
+     -38.4212493
+    ]
+   },
+   "properties": {
+    "nombre": "Perquenco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09113",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.63725,
+     -38.9862884
+    ]
+   },
+   "properties": {
+    "nombre": "Pitrufquén",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09114",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9777605,
+     -39.2731173
+    ]
+   },
+   "properties": {
+    "nombre": "Pucón",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09115",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.3968651,
+     -38.7923166
+    ]
+   },
+   "properties": {
+    "nombre": "Saavedra",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09116",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0891844,
+     -38.9967454
+    ]
+   },
+   "properties": {
+    "nombre": "Teodoro Schmidt",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09117",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.163885,
+     -39.1782056
+    ]
+   },
+   "properties": {
+    "nombre": "Toltén",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09118",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2240806,
+     -38.6703956
+    ]
+   },
+   "properties": {
+    "nombre": "Vilcún",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09119",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2274364,
+     -39.2780911
+    ]
+   },
+   "properties": {
+    "nombre": "Villarrica",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09120",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.8476626,
+     -38.6025592
+    ]
+   },
+   "properties": {
+    "nombre": "Cholchol",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09121",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.7086097,
+     -37.798787
+    ]
+   },
+   "properties": {
+    "nombre": "Angol",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4374375,
+     -37.9566312
+    ]
+   },
+   "properties": {
+    "nombre": "Collipulli",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8883419,
+     -38.4372985
+    ]
+   },
+   "properties": {
+    "nombre": "Curacautín",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09203",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3754686,
+     -38.0609055
+    ]
+   },
+   "properties": {
+    "nombre": "Ercilla",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09204",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.3706166,
+     -38.4547975
+    ]
+   },
+   "properties": {
+    "nombre": "Lonquimay",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09205",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.8291829,
+     -37.9829562
+    ]
+   },
+   "properties": {
+    "nombre": "Los Sauces",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09206",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9063975,
+     -38.1653241
+    ]
+   },
+   "properties": {
+    "nombre": "Lumaco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09207",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0725938,
+     -38.0332836
+    ]
+   },
+   "properties": {
+    "nombre": "Purén",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09208",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.5832643,
+     -37.671709
+    ]
+   },
+   "properties": {
+    "nombre": "Renaico",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09209",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6668798,
+     -38.250816
+    ]
+   },
+   "properties": {
+    "nombre": "Traiguén",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09210",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3316568,
+     -38.2339494
+    ]
+   },
+   "properties": {
+    "nombre": "Victoria",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "09211",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9395915,
+     -41.471798
+    ]
+   },
+   "properties": {
+    "nombre": "Puerto Montt",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.1275379,
+     -41.7712143
+    ]
+   },
+   "properties": {
+    "nombre": "Calbuco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2962174,
+     -41.6642824
+    ]
+   },
+   "properties": {
+    "nombre": "Cochamó",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10103",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4223148,
+     -41.1531405
+    ]
+   },
+   "properties": {
+    "nombre": "Fresia",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10104",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0604738,
+     -41.1258462
+    ]
+   },
+   "properties": {
+    "nombre": "Frutillar",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10105",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4617177,
+     -41.3960568
+    ]
+   },
+   "properties": {
+    "nombre": "Los Muermos",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10106",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0047428,
+     -41.2575704
+    ]
+   },
+   "properties": {
+    "nombre": "Llanquihue",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10107",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.5950711,
+     -41.6160139
+    ]
+   },
+   "properties": {
+    "nombre": "Maullín",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10108",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9829073,
+     -41.317802
+    ]
+   },
+   "properties": {
+    "nombre": "Puerto Varas",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10109",
+    "poblacion_osm": 41255,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7642918,
+     -42.482375
+    ]
+   },
+   "properties": {
+    "nombre": "Castro",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8287225,
+     -41.8682162
+    ]
+   },
+   "properties": {
+    "nombre": "Ancud",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7724416,
+     -42.6239756
+    ]
+   },
+   "properties": {
+    "nombre": "Chonchi",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10203",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6028415,
+     -42.4396611
+    ]
+   },
+   "properties": {
+    "nombre": "Curaco de Vélez",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10204",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6472998,
+     -42.3795533
+    ]
+   },
+   "properties": {
+    "nombre": "Dalcahue",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10205",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6762714,
+     -42.5992585
+    ]
+   },
+   "properties": {
+    "nombre": "Puqueldón",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10206",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.472062,
+     -42.8898582
+    ]
+   },
+   "properties": {
+    "nombre": "Queilen",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10207",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6203025,
+     -43.1200305
+    ]
+   },
+   "properties": {
+    "nombre": "Quellón",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10208",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4735593,
+     -42.1445307
+    ]
+   },
+   "properties": {
+    "nombre": "Quemchi",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10209",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.488078,
+     -42.471001
+    ]
+   },
+   "properties": {
+    "nombre": "Quinchao",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10210",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.1358091,
+     -40.5736955
+    ]
+   },
+   "properties": {
+    "nombre": "Osorno",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10301",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.8842171,
+     -40.97276
+    ]
+   },
+   "properties": {
+    "nombre": "Puerto Octay",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10302",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.1581888,
+     -40.9128096
+    ]
+   },
+   "properties": {
+    "nombre": "Purranque",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10303",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6039988,
+     -40.6835571
+    ]
+   },
+   "properties": {
+    "nombre": "Puyehue",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10304",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.2163904,
+     -40.7961713
+    ]
+   },
+   "properties": {
+    "nombre": "Río Negro",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10305",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.470531,
+     -40.6047274
+    ]
+   },
+   "properties": {
+    "nombre": "San Juan de la Costa",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10306",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0115777,
+     -40.4127606
+    ]
+   },
+   "properties": {
+    "nombre": "San Pablo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10307",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.7084192,
+     -42.9165335
+    ]
+   },
+   "properties": {
+    "nombre": "Chaitén",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10401",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.866702,
+     -43.185771
+    ]
+   },
+   "properties": {
+    "nombre": "Futaleufú",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10402",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4706795,
+     -41.9660516
+    ]
+   },
+   "properties": {
+    "nombre": "Hualaihué",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10403",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8039587,
+     -43.6178268
+    ]
+   },
+   "properties": {
+    "nombre": "Palena",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "10404",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0684863,
+     -45.5711804
+    ]
+   },
+   "properties": {
+    "nombre": "Coyhaique",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "11101",
+    "poblacion_osm": 63567,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8492779,
+     -44.2402147
+    ]
+   },
+   "properties": {
+    "nombre": "Lago Verde",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "11102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6976787,
+     -45.4068167
+    ]
+   },
+   "properties": {
+    "nombre": "Aysén",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "11201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.680463,
+     -44.7272567
+    ]
+   },
+   "properties": {
+    "nombre": "Cisnes",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "11202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.7463997,
+     -43.8975173
+    ]
+   },
+   "properties": {
+    "nombre": "Guaitecas",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "11203",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.5732128,
+     -47.2541656
+    ]
+   },
+   "properties": {
+    "nombre": "Cochrane",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "11301",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.5592493,
+     -48.4684802
+    ]
+   },
+   "properties": {
+    "nombre": "O’Higgins",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "11302",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.5374644,
+     -47.8036754
+    ]
+   },
+   "properties": {
+    "nombre": "Tortel",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "11303",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.7245816,
+     -46.5396625
+    ]
+   },
+   "properties": {
+    "nombre": "Chile Chico",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "11401",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9374916,
+     -46.2919029
+    ]
+   },
+   "properties": {
+    "nombre": "Río Ibáñez",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "11402",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.907822,
+     -53.1625688
+    ]
+   },
+   "properties": {
+    "nombre": "Punta Arenas",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "12101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4141605,
+     -52.4270382
+    ]
+   },
+   "properties": {
+    "nombre": "Laguna Blanca",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "12102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4634208,
+     -52.6506926
+    ]
+   },
+   "properties": {
+    "nombre": "Río Verde",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "12103",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.6905678,
+     -52.3158634
+    ]
+   },
+   "properties": {
+    "nombre": "San Gregorio",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "12104",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.6062504,
+     -54.9357749
+    ]
+   },
+   "properties": {
+    "nombre": "Cabo de Hornos",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "12201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.3687401,
+     -53.2956738
+    ]
+   },
+   "properties": {
+    "nombre": "Porvenir",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "12301",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.2909082,
+     -52.7764615
+    ]
+   },
+   "properties": {
+    "nombre": "Primavera",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "12302",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.646329,
+     -53.6397237
+    ]
+   },
+   "properties": {
+    "nombre": "Timaukel",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "12303",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.5059982,
+     -51.7262003
+    ]
+   },
+   "properties": {
+    "nombre": "Natales",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "12401",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3446885,
+     -51.2562493
+    ]
+   },
+   "properties": {
+    "nombre": "Torres del Paine",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "12402",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6510671,
+     -33.4376995
+    ]
+   },
+   "properties": {
+    "nombre": "Santiago",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7030815,
+     -33.4879868
+    ]
+   },
+   "properties": {
+    "nombre": "Cerrillos",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7306399,
+     -33.4293011
+    ]
+   },
+   "properties": {
+    "nombre": "Cerro Navia",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13103",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6708385,
+     -33.3960309
+    ]
+   },
+   "properties": {
+    "nombre": "Conchalí",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13104",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6655679,
+     -33.5561468
+    ]
+   },
+   "properties": {
+    "nombre": "El Bosque",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13105",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6898654,
+     -33.4536375
+    ]
+   },
+   "properties": {
+    "nombre": "Estación Central",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13106",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6362988,
+     -33.3744615
+    ]
+   },
+   "properties": {
+    "nombre": "Huechuraba",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13107",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6554648,
+     -33.422295
+    ]
+   },
+   "properties": {
+    "nombre": "Independencia",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13108",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6644024,
+     -33.5346265
+    ]
+   },
+   "properties": {
+    "nombre": "La Cisterna",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13109",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6006178,
+     -33.5204181
+    ]
+   },
+   "properties": {
+    "nombre": "La Florida",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13110",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6332426,
+     -33.5431234
+    ]
+   },
+   "properties": {
+    "nombre": "La Granja",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13111",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.629827,
+     -33.5833594
+    ]
+   },
+   "properties": {
+    "nombre": "La Pintana",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13112",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5432729,
+     -33.442282
+    ]
+   },
+   "properties": {
+    "nombre": "La Reina",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13113",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5671489,
+     -33.4084548
+    ]
+   },
+   "properties": {
+    "nombre": "Las Condes",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13114",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5051957,
+     -33.3616012
+    ]
+   },
+   "properties": {
+    "nombre": "Lo Barnechea",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13115",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.694539,
+     -33.5250782
+    ]
+   },
+   "properties": {
+    "nombre": "Lo Espejo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13116",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7178219,
+     -33.4426273
+    ]
+   },
+   "properties": {
+    "nombre": "Lo Prado",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13117",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5991929,
+     -33.4821635
+    ]
+   },
+   "properties": {
+    "nombre": "Macul",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13118",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.756182,
+     -33.5094409
+    ]
+   },
+   "properties": {
+    "nombre": "Maipú",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13119",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5936358,
+     -33.4543164
+    ]
+   },
+   "properties": {
+    "nombre": "Ñuñoa",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13120",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6760755,
+     -33.49383
+    ]
+   },
+   "properties": {
+    "nombre": "Pedro Aguirre Cerda",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13121",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5418308,
+     -33.4765918
+    ]
+   },
+   "properties": {
+    "nombre": "Peñalolén",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13122",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6095284,
+     -33.4321835
+    ]
+   },
+   "properties": {
+    "nombre": "Providencia",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13123",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7517915,
+     -33.4368017
+    ]
+   },
+   "properties": {
+    "nombre": "Pudahuel",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13124",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.731549,
+     -33.367767
+    ]
+   },
+   "properties": {
+    "nombre": "Quilicura",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13125",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6944892,
+     -33.4225631
+    ]
+   },
+   "properties": {
+    "nombre": "Quinta Normal",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13126",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6428912,
+     -33.4020744
+    ]
+   },
+   "properties": {
+    "nombre": "Recoleta",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13127",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7049708,
+     -33.4042423
+    ]
+   },
+   "properties": {
+    "nombre": "Renca",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13128",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6290637,
+     -33.4965843
+    ]
+   },
+   "properties": {
+    "nombre": "San Joaquín",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13129",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6495465,
+     -33.4859746
+    ]
+   },
+   "properties": {
+    "nombre": "San Miguel",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13130",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.643812,
+     -33.5428175
+    ]
+   },
+   "properties": {
+    "nombre": "San Ramón",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13131",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5764516,
+     -33.3871062
+    ]
+   },
+   "properties": {
+    "nombre": "Vitacura",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13132",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5754736,
+     -33.6095279
+    ]
+   },
+   "properties": {
+    "nombre": "Puente Alto",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5729961,
+     -33.6348808
+    ]
+   },
+   "properties": {
+    "nombre": "Pirque",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.3527845,
+     -33.6403975
+    ]
+   },
+   "properties": {
+    "nombre": "San José de Maipo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13203",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6749147,
+     -33.202472
+    ]
+   },
+   "properties": {
+    "nombre": "Colina",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13301",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8729771,
+     -33.2864213
+    ]
+   },
+   "properties": {
+    "nombre": "Lampa",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13302",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9293877,
+     -33.0852808
+    ]
+   },
+   "properties": {
+    "nombre": "Tiltil",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13303",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7045838,
+     -33.5922859
+    ]
+   },
+   "properties": {
+    "nombre": "San Bernardo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13401",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7419619,
+     -33.7319741
+    ]
+   },
+   "properties": {
+    "nombre": "Buin",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13402",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7593202,
+     -33.6309419
+    ]
+   },
+   "properties": {
+    "nombre": "Calera de Tango",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13403",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.7390236,
+     -33.8101102
+    ]
+   },
+   "properties": {
+    "nombre": "Paine",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13404",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2145796,
+     -33.6855134
+    ]
+   },
+   "properties": {
+    "nombre": "Melipilla",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13501",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.0991207,
+     -34.0320589
+    ]
+   },
+   "properties": {
+    "nombre": "Alhué",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13502",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.1293733,
+     -33.4022289
+    ]
+   },
+   "properties": {
+    "nombre": "Curacaví",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13503",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.1200324,
+     -33.5159823
+    ]
+   },
+   "properties": {
+    "nombre": "María Pinto",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13504",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.4563149,
+     -33.8943545
+    ]
+   },
+   "properties": {
+    "nombre": "San Pedro",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13505",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9302778,
+     -33.6644388
+    ]
+   },
+   "properties": {
+    "nombre": "Talagante",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13601",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9782465,
+     -33.6783192
+    ]
+   },
+   "properties": {
+    "nombre": "El Monte",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13602",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.9039325,
+     -33.7537387
+    ]
+   },
+   "properties": {
+    "nombre": "Isla de Maipo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13603",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8020467,
+     -33.5673051
+    ]
+   },
+   "properties": {
+    "nombre": "Padre Hurtado",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13604",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8785306,
+     -33.6058638
+    ]
+   },
+   "properties": {
+    "nombre": "Peñaflor",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "13605",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.2459859,
+     -39.8141262
+    ]
+   },
+   "properties": {
+    "nombre": "Valdivia",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "14101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4314543,
+     -39.8877399
+    ]
+   },
+   "properties": {
+    "nombre": "Corral",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "14102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.7754222,
+     -39.4522225
+    ]
+   },
+   "properties": {
+    "nombre": "Lanco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "14103",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.8129655,
+     -39.8634009
+    ]
+   },
+   "properties": {
+    "nombre": "Los Lagos",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "14104",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9521276,
+     -39.6659792
+    ]
+   },
+   "properties": {
+    "nombre": "Máfil",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "14105",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.961085,
+     -39.5394521
+    ]
+   },
+   "properties": {
+    "nombre": "Mariquina",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "14106",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.8726695,
+     -40.0706633
+    ]
+   },
+   "properties": {
+    "nombre": "Paillaco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "14107",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3333801,
+     -39.6419909
+    ]
+   },
+   "properties": {
+    "nombre": "Panguipulli",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "14108",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.0820366,
+     -40.2952392
+    ]
+   },
+   "properties": {
+    "nombre": "La Unión",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "14201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3826602,
+     -40.131196
+    ]
+   },
+   "properties": {
+    "nombre": "Futrono",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "14202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4813502,
+     -40.3216708
+    ]
+   },
+   "properties": {
+    "nombre": "Lago Ranco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "14203",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9567617,
+     -40.3336678
+    ]
+   },
+   "properties": {
+    "nombre": "Río Bueno",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "14204",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.3211394,
+     -18.4785288
+    ]
+   },
+   "properties": {
+    "nombre": "Arica",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "15101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.1592132,
+     -19.1401644
+    ]
+   },
+   "properties": {
+    "nombre": "Camarones",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "15102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.5592242,
+     -18.1963825
+    ]
+   },
+   "properties": {
+    "nombre": "Putre",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "15201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.4815536,
+     -17.5947669
+    ]
+   },
+   "properties": {
+    "nombre": "General Lagos",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "15202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.1033194,
+     -36.6066616
+    ]
+   },
+   "properties": {
+    "nombre": "Chillán",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16101",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2987216,
+     -36.7422507
+    ]
+   },
+   "properties": {
+    "nombre": "Bulnes",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16102",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.1317093,
+     -36.6230032
+    ]
+   },
+   "properties": {
+    "nombre": "Chillán Viejo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16103",
+    "poblacion_osm": 26172,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0246149,
+     -36.897855
+    ]
+   },
+   "properties": {
+    "nombre": "El Carmen",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16104",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0988563,
+     -36.9767381
+    ]
+   },
+   "properties": {
+    "nombre": "Pemuco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16105",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8922832,
+     -36.7036112
+    ]
+   },
+   "properties": {
+    "nombre": "Pinto",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16106",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4764427,
+     -36.7443758
+    ]
+   },
+   "properties": {
+    "nombre": "Quillón",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16107",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0303507,
+     -36.7998233
+    ]
+   },
+   "properties": {
+    "nombre": "San Ignacio",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16108",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.0188531,
+     -37.1193665
+    ]
+   },
+   "properties": {
+    "nombre": "Yungay",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16109",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.5408101,
+     -36.2827085
+    ]
+   },
+   "properties": {
+    "nombre": "Quirihue",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16201",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.7915423,
+     -36.1317572
+    ]
+   },
+   "properties": {
+    "nombre": "Cobquecura",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16202",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.7023316,
+     -36.4876004
+    ]
+   },
+   "properties": {
+    "nombre": "Coelemu",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16203",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3976432,
+     -36.3935896
+    ]
+   },
+   "properties": {
+    "nombre": "Ninhue",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16204",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.4285292,
+     -36.5274395
+    ]
+   },
+   "properties": {
+    "nombre": "Portezuelo",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16205",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.5343744,
+     -36.605064
+    ]
+   },
+   "properties": {
+    "nombre": "Ránquil",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16206",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6658186,
+     -36.4307029
+    ]
+   },
+   "properties": {
+    "nombre": "Treguaco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16207",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9581208,
+     -36.4248192
+    ]
+   },
+   "properties": {
+    "nombre": "San Carlos",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16301",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8319077,
+     -36.628802
+    ]
+   },
+   "properties": {
+    "nombre": "Coihueco",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16302",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8148307,
+     -36.282754
+    ]
+   },
+   "properties": {
+    "nombre": "Ñiquén",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16303",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5499036,
+     -36.556603
+    ]
+   },
+   "properties": {
+    "nombre": "San Fabián",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16304",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2123751,
+     -36.5034254
+    ]
+   },
+   "properties": {
+    "nombre": "San Nicolás",
+    "tipo": "comuna",
+    "rol": "recibe",
+    "cut": "16305",
+    "poblacion_osm": null,
+    "fuente": "OpenStreetMap admin_centre",
+    "ubicacion_aproximada": false
+   }
+  }
+ ]
+}

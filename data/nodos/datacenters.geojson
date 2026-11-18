@@ -1,0 +1,936 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.67626,
+     -33.357991
+    ]
+   },
+   "properties": {
+    "nombre": "Cirion Santiago de Chile - SAN1",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 2093,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.602003,
+     -33.431998
+    ]
+   },
+   "properties": {
+    "nombre": "Internexa Santiago de Chile",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago de Chile",
+    "peeringdb_fac": 2129,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.599568,
+     -33.418421
+    ]
+   },
+   "properties": {
+    "nombre": "Bynarya",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 2964,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.627851,
+     -33.45013
+    ]
+   },
+   "properties": {
+    "nombre": "Servicios Informaticos Hostname",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 3416,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.587299,
+     -33.522731
+    ]
+   },
+   "properties": {
+    "nombre": "CMET",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 3823,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.605923,
+     -33.430506
+    ]
+   },
+   "properties": {
+    "nombre": "Intesis Chile",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 4103,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.616493,
+     -33.387253
+    ]
+   },
+   "properties": {
+    "nombre": "Netglobalis",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 4154,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.57492,
+     -33.559008
+    ]
+   },
+   "properties": {
+    "nombre": "Grupo ZGH - La Florida",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "La Florida",
+    "peeringdb_fac": 5274,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.848318,
+     -33.448022
+    ]
+   },
+   "properties": {
+    "nombre": "Equinix ST1/ST2 - Santiago",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 5295,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.655821,
+     -33.444436
+    ]
+   },
+   "properties": {
+    "nombre": "entel - CNT (torre entel)",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 5301,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.599568,
+     -33.418421
+    ]
+   },
+   "properties": {
+    "nombre": "IFX Santiago",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 5360,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.656075,
+     -33.444275
+    ]
+   },
+   "properties": {
+    "nombre": "entel - Data Center Amunategui",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 5420,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.662207,
+     -33.447381
+    ]
+   },
+   "properties": {
+    "nombre": "Mediaflog",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 5494,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.649576,
+     -33.441992
+    ]
+   },
+   "properties": {
+    "nombre": "GTD Chile - Moneda",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 6733,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.645367,
+     -33.438249
+    ]
+   },
+   "properties": {
+    "nombre": "Adexus Santiago",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 6986,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.67626,
+     -33.357991
+    ]
+   },
+   "properties": {
+    "nombre": "Adexus Santiago - CLink Extension",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 6987,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.613918,
+     -33.393129
+    ]
+   },
+   "properties": {
+    "nombre": "TNS CHILE-TECHNETSECURITY",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 6993,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.67626,
+     -33.357991
+    ]
+   },
+   "properties": {
+    "nombre": "EdgeUno Datacenter Santiago Chile (SCL1)",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Huechuraba",
+    "peeringdb_fac": 7465,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.70621,
+     -33.338535
+    ]
+   },
+   "properties": {
+    "nombre": "Ascenty SCL01 - Santiago",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 7594,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.632892,
+     -33.454986
+    ]
+   },
+   "properties": {
+    "nombre": "DC Porvenir",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 8048,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6196749,
+     -33.0458456
+    ]
+   },
+   "properties": {
+    "nombre": "Telxius Valparaiso DC",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Valparaiso",
+    "peeringdb_fac": 8554,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.599568,
+     -33.418421
+    ]
+   },
+   "properties": {
+    "nombre": "XCONNECT",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Las Condes",
+    "peeringdb_fac": 9078,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.3211394,
+     -18.4785288
+    ]
+   },
+   "properties": {
+    "nombre": "Telxius Arica DC",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Arica",
+    "peeringdb_fac": 9087,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.619899,
+     -33.44794
+    ]
+   },
+   "properties": {
+    "nombre": "PowerHost Santiago",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 9202,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.543801,
+     -33.019962
+    ]
+   },
+   "properties": {
+    "nombre": "ihosting Servicios Internet",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Viña del Mar",
+    "peeringdb_fac": 9496,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.698912,
+     -33.35628
+    ]
+   },
+   "properties": {
+    "nombre": "SONDA - Quilicura",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 10697,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.698888,
+     -33.356628
+    ]
+   },
+   "properties": {
+    "nombre": "SONDA - Kudos",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 10698,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.655618,
+     -33.437892
+    ]
+   },
+   "properties": {
+    "nombre": "SONDA - Teatinos",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 10699,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.570041,
+     -33.407347
+    ]
+   },
+   "properties": {
+    "nombre": "DataCenter Siptelchile",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Las Condes",
+    "peeringdb_fac": 10792,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.704955,
+     -33.337316
+    ]
+   },
+   "properties": {
+    "nombre": "Ascenty SCL02 - Santiago",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 11683,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.701603,
+     -33.297395
+    ]
+   },
+   "properties": {
+    "nombre": "EdgeConneX Santiago (EDCSCL01)",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 11784,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.701603,
+     -33.297395
+    ]
+   },
+   "properties": {
+    "nombre": "EdgeConneX Santiago (EDCSCL02)",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 11785,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6510671,
+     -33.4376995
+    ]
+   },
+   "properties": {
+    "nombre": "METROWAN TELECOM Santiago",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 12699,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.655784,
+     -33.444046
+    ]
+   },
+   "properties": {
+    "nombre": "Equinix ST3 - Santiago",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiado",
+    "peeringdb_fac": 12705,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.083703,
+     -34.429019
+    ]
+   },
+   "properties": {
+    "nombre": "Equinix ST4 - Santiago",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "San Pedro",
+    "peeringdb_fac": 12706,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.649189,
+     -33.43542
+    ]
+   },
+   "properties": {
+    "nombre": "GTD Chile - Lidice II",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 12864,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.689108,
+     -33.387962
+    ]
+   },
+   "properties": {
+    "nombre": "GTD Chile - Panamericana",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 12865,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.8729771,
+     -33.2864213
+    ]
+   },
+   "properties": {
+    "nombre": "ODATA DC ST01",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Lampa",
+    "peeringdb_fac": 13382,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.73448,
+     -33.241338
+    ]
+   },
+   "properties": {
+    "nombre": "Grupo ZGH - Colina",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 13706,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.048431,
+     -36.815773
+    ]
+   },
+   "properties": {
+    "nombre": "Opciones - Concepción",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Concepción",
+    "peeringdb_fac": 14127,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.940289,
+     -41.467594
+    ]
+   },
+   "properties": {
+    "nombre": "Opciones - Puerto Montt",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Puerto Montt",
+    "peeringdb_fac": 14128,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.952984,
+     -40.591393
+    ]
+   },
+   "properties": {
+    "nombre": "Silica Networks - Data Center Nubicua (OSO01)",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Las Lumas",
+    "peeringdb_fac": 14130,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.558436,
+     -33.135779
+    ]
+   },
+   "properties": {
+    "nombre": "Scala Data Centers SSCLCR01",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Placilla",
+    "peeringdb_fac": 14340,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.616428,
+     -33.386875
+    ]
+   },
+   "properties": {
+    "nombre": "Ufinet Chile Data Center Magnus II",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 14638,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5795811,
+     -32.7990544
+    ]
+   },
+   "properties": {
+    "nombre": "San Esteban SDC1",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "San Esteban",
+    "peeringdb_fac": 14742,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.596044,
+     -38.742672
+    ]
+   },
+   "properties": {
+    "nombre": "ANACONDAWEB S.A.",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Temuco",
+    "peeringdb_fac": 15075,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.649192,
+     -33.435398
+    ]
+   },
+   "properties": {
+    "nombre": "GTD Chile - Lidice I",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Santiago",
+    "peeringdb_fac": 15094,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.567446,
+     -33.029241
+    ]
+   },
+   "properties": {
+    "nombre": "TECNOERA LONDRES ZONA 1",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Viña del Mar",
+    "peeringdb_fac": 15099,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.872931,
+     -53.046676
+    ]
+   },
+   "properties": {
+    "nombre": "Apoapsis - Ojo Bueno",
+    "tipo": "data_center",
+    "rol": "genera",
+    "ciudad": "Punta Arenas",
+    "peeringdb_fac": 15789,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  }
+ ]
+}

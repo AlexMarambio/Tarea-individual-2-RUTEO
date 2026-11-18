@@ -1,0 +1,185 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.698888,
+     -33.356628
+    ]
+   },
+   "properties": {
+    "nombre": "PIT Santiago - PIT Chile",
+    "tipo": "ixp",
+    "rol": "intercambia",
+    "ciudad": "Santiago",
+    "sede": "SONDA - Kudos",
+    "peeringdb_ix": 1514,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.048431,
+     -36.815773
+    ]
+   },
+   "properties": {
+    "nombre": "PIT Concepcion - PIT Chile",
+    "tipo": "ixp",
+    "rol": "intercambia",
+    "ciudad": "Concepcion",
+    "sede": "Opciones - Concepción",
+    "peeringdb_ix": 1915,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.596044,
+     -38.742672
+    ]
+   },
+   "properties": {
+    "nombre": "PIT Temuco - PIT Chile",
+    "tipo": "ixp",
+    "rol": "intercambia",
+    "ciudad": "Temuco",
+    "sede": "ANACONDAWEB S.A.",
+    "peeringdb_ix": 1917,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.848318,
+     -33.448022
+    ]
+   },
+   "properties": {
+    "nombre": "PIT entel",
+    "tipo": "ixp",
+    "rol": "intercambia",
+    "ciudad": "Santiago",
+    "sede": "Equinix ST1/ST2 - Santiago",
+    "peeringdb_ix": 2176,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.2459859,
+     -39.8141262
+    ]
+   },
+   "properties": {
+    "nombre": "ixFabric - Valdivia",
+    "tipo": "ixp",
+    "rol": "intercambia",
+    "ciudad": "Valdivia",
+    "sede": null,
+    "peeringdb_ix": 3842,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.6510671,
+     -33.4376995
+    ]
+   },
+   "properties": {
+    "nombre": "ixFabric - Santiago",
+    "tipo": "ixp",
+    "rol": "intercambia",
+    "ciudad": "Santiago",
+    "sede": null,
+    "peeringdb_ix": 3937,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.872931,
+     -53.046676
+    ]
+   },
+   "properties": {
+    "nombre": "PatagoniaIX",
+    "tipo": "ixp",
+    "rol": "intercambia",
+    "ciudad": "Punta Arenas",
+    "sede": "Apoapsis - Ojo Bueno",
+    "peeringdb_ix": 4607,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.704955,
+     -33.337316
+    ]
+   },
+   "properties": {
+    "nombre": "Chile IX by PIT.net",
+    "tipo": "ixp",
+    "rol": "intercambia",
+    "ciudad": "Santiago",
+    "sede": "Ascenty SCL02 - Santiago",
+    "peeringdb_ix": 4820,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.567446,
+     -33.029241
+    ]
+   },
+   "properties": {
+    "nombre": "MetroPort IX",
+    "tipo": "ixp",
+    "rol": "intercambia",
+    "ciudad": "Viña del Mar",
+    "sede": "TECNOERA LONDRES ZONA 1",
+    "peeringdb_ix": 5058,
+    "fuente": "PeeringDB",
+    "ubicacion_aproximada": false
+   }
+  }
+ ]
+}

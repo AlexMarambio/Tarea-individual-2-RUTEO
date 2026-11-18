@@ -1,0 +1,328 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.805098798216,
+     -45.45830050296172
+    ]
+   },
+   "properties": {
+    "nombre": "Puerto Chacabuco",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.47946355486467,
+     -43.117473610870405
+    ]
+   },
+   "properties": {
+    "nombre": "Quellon",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.62048049678572,
+     -33.045765558769304
+    ]
+   },
+   "properties": {
+    "nombre": "Valparaíso",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9534112342951,
+     -41.46037424479032
+    ]
+   },
+   "properties": {
+    "nombre": "Puerto Montt",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.93333257585476,
+     -53.16665547850115
+    ]
+   },
+   "properties": {
+    "nombre": "Punta Arenas",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.6058614273846,
+     -54.935200597435504
+    ]
+   },
+   "properties": {
+    "nombre": "Puerto Williams",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.53688749922706,
+     -47.80121466459952
+    ]
+   },
+   "properties": {
+    "nombre": "Tortel",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.30674851728985,
+     -18.47337014462133
+    ]
+   },
+   "properties": {
+    "nombre": "Arica",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.50446353715454,
+     -41.991130772682006
+    ]
+   },
+   "properties": {
+    "nombre": "Linao",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.15529386263451,
+     -41.80692209717843
+    ]
+   },
+   "properties": {
+    "nombre": "Meimen",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.14222300000027,
+     -20.2166999999998
+    ]
+   },
+   "properties": {
+    "nombre": "Iquique",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.39999999999955,
+     -23.65
+    ]
+   },
+   "properties": {
+    "nombre": "Antofagasta",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.250204,
+     -29.906301000000266
+    ]
+   },
+   "properties": {
+    "nombre": "La Serena",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.19765799999958,
+     -22.08837799999976
+    ]
+   },
+   "properties": {
+    "nombre": "Tocopilla",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.3967699999996,
+     -38.78713000000029
+    ]
+   },
+   "properties": {
+    "nombre": "Puerto Saavedra",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.812357,
+     -27.06199200000027
+    ]
+   },
+   "properties": {
+    "nombre": "Caldera",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.416068,
+     -35.31837099999989
+    ]
+   },
+   "properties": {
+    "nombre": "Constitución",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6000943975144,
+     -33.54688294154119
+    ]
+   },
+   "properties": {
+    "nombre": "Cartagena",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.1089741201329,
+     -36.83168324437438
+    ]
+   },
+   "properties": {
+    "nombre": "San Pedro de la Paz",
+    "tipo": "aterrizaje_cable",
+    "rol": "intercambia",
+    "fuente": "TeleGeography",
+    "ubicacion_aproximada": false
+   }
+  }
+ ]
+}

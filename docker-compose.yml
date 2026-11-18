@@ -1,0 +1,21 @@
+# PostgreSQL 17 + PostGIS 3.5 + pgRouting 3.8.
+# pgRouting 3.x es necesario: pgr_createTopology y pgr_nodeNetwork se eliminaron en pgRouting 4.0.
+services:
+  db:
+    image: pgrouting/pgrouting:17-3.5-3.8.0
+    container_name: tarea2_ruteo_db
+    environment:
+      POSTGRES_DB: ruteo
+      POSTGRES_USER: ruteo
+      POSTGRES_PASSWORD: ruteo
+    ports:
+      - "5434:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ruteo -d ruteo"]
+      interval: 5s
+      retries: 20
+
+volumes:
+  pgdata:

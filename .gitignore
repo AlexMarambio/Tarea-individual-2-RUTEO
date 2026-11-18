@@ -1,0 +1,12 @@
+.local
+.venv/
+__pycache__/
+*.pyc
+salida/vistas/
+
+# Archivos auxiliares de LaTeX
+informe/latex/*.aux
+informe/latex/*.log
+informe/latex/*.out
+informe/latex/*.toc
+informe
