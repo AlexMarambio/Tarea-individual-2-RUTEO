@@ -40,6 +40,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python main.py --abrir                     
 ```
+OJO que se demora unos minutos en abrir todo.
 
 `main.py` también corre por pasos:
 
