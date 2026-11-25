@@ -27,13 +27,21 @@ El análisis completo, las decisiones de modelado y los aprendizajes están en
 ## Cómo ejecutarlo
 
 Requisitos: Docker y Python 3.10 o superior.
-
+(Windows)
 ```bash
 docker compose up -d                       # PostgreSQL 17 + PostGIS 3.5 + pgRouting 3.8 (puerto 5434)
 python -m venv .venv
-.venv\Scripts\activate                     # Linux/macOS: source .venv/bin/activate
+.venv\Scripts\activate                    
 pip install -r requirements.txt
-python main.py --abrir                     # todo el proceso (~20 s) y abre el mapa
+python main.py --abrir                    
+```
+(Mac/Linux)
+```bash
+docker compose up -d                       
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python main.py --abrir                     
 ```
 
 `main.py` también corre por pasos:
