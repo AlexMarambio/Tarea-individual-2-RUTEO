@@ -5,7 +5,7 @@ proyecto Yafún (NIC Labs, 2018), la convierte en una topología con pgRouting, 
 nodos clave y calcula el **ATTR** (*Average Two-Terminal Reliability*) antes y después del
 terremoto 8.8, usando un modelo de falla probabilístico tomado de la literatura.
 
-![Mapa](informe/capturas/01_mapa_general.png)
+![Mapa](/01_mapa_general.png)
 
 ## Resultado
 
