@@ -21,9 +21,6 @@ terremoto 8.8, usando un modelo de falla probabilístico tomado de la literatura
   Es un puente: si falla, se separan del resto los 97 nodos clave desde Arica hasta la Región
   de Valparaíso.
 
-El análisis completo, las decisiones de modelado y los aprendizajes están en
-[`informe/hallazgos.md`](informe/hallazgos.md).
-
 ## Cómo ejecutarlo
 
 Requisitos: Docker y Python 3.10 o superior.
@@ -66,21 +63,6 @@ SELECT * FROM attr_red('completa');                 -- antes del sismo
 SELECT * FROM attr_red('fibra', 0.5, 'p_falla');    -- después: fallan los enlaces con p >= 0,5
 ```
 
-## Cómo se cumple cada punto del enunciado
-
-| Enunciado | Dónde |
-|---|---|
-| Descargar la infraestructura del estudio | `data/infraestructura/` (Yafún, Subtel SAIP AN002T0005610) |
-| Identificar nodos clave que generan, intercambian y reciben | `data/nodos/` y `scripts/descargar_datos.py`; tabla `nodos_clave` |
-| Topología con `pgr_createTopology` | `sql/02_topologia.sql` → `infraestructura_noded` y `infraestructura_noded_vertices_pgr` |
-| Script de ATTR de la infraestructura en operación | `tarea/attr.py` y la función SQL `attr_red()` (`pgr_connectedComponents`) |
-| Sismo 8.8 en GeoJSON cargado en la BD | `data/sismo/epicentro_maule_2010_usgs.geojson` → tabla `sismo`, más el ShakeMap del USGS |
-| Modelo de falla probabilístico desde el epicentro | Agarwal et al. (2013), gaussiano, calibrado con la isosista MMI VII (`sql/04_falla.sql`) |
-| Script de probabilidades de falla por enlace | `sql/04_falla.sql` → tabla `probabilidad_falla` |
-| Archivo `main.sql` con las probabilidades | [`main.sql`](main.sql): 3.167 enlaces con geometría |
-| Nuevo ATTR tras el terremoto | Tabla de arriba y `salida/resultados.json` |
-| `main.py` que carga la BD, muestra el mapa, enlaces y daño en Leaflet, y entrega los ATTR | [`main.py`](main.py) → `salida/mapa.html` |
-
 ## Modelo en breve
 
 - **Topología**: nodado con `ST_UnaryUnion`, porque `pgr_nodeNetwork` falla con estos datos,
@@ -108,7 +90,6 @@ tarea/                   carga, enlaces, attr (Monte Carlo), mapa (folium/Leafle
 scripts/                 descargar_datos.py · capturas_mapa.py · graficos.py
 data/                    infraestructura (shp) · nodos (geojson) · sismo (USGS) · contexto
 salida/                  mapa.html · resultados.json
-informe/                 latex/ (informe: main.tex y main.pdf) · hallazgos.md · capturas/ · graficos/
 ```
 
 ## Fuentes
